@@ -1,19 +1,24 @@
 {
-  "siteTitle": "Corgi",
-  "siteDescription": "My awesome personal site, i'm a Corgi!",
+  "siteTitle": "Oscar Omegna",
+  "siteDescription": "My awesome personal site, i'm Oscar Omegna !",
   "avatar": "/img/avatar.jpg",
   "background": "/img/background.jpg",
-  "description": "Hey I'm a Corgi. Thanks for visiting my personal site!",
+  "description": "Hey I'm Oscar Omegna. Thanks for visiting my personal site!",
   "resumeFile": "https://dl.dropboxusercontent.com/u/3848960/corgi.pdf",
   "icons": [
-    {"icon": "page", "link": "/resume"},
-    {"icon": "social-github", "link": "/github"},
-    {"icon": "social-twitter", "link": "/twitter"},
-    {"icon": "paw", "link": "/corgi"},
-    {"icon": "social-reddit", "link": "https://www.reddit.com/r/corgi"}
+    {"icon": "page", "link": "https://www.dropbox.com/s/f763j0day14stgw/RESUME%20V1.pdf?dl=0"},
+    {"icon": "social-github", "link": "https://github.com/Neulinet"},
+    {"icon": "social-twitter", "link": "https://twitter.com/elpresi4"},
+    {"icon": "social-linkedin", "link": "https://www.linkedin.com/in/oscar-omegna-79a97079/"},
+    {"icon": "social-medium", "link": "https://medium.com/@elpresi4"}
   ],
   "projects": [
-    {"title":"Dogecoin Ticker", "link":"/dogecointicker"},
-    {"title":"JSON Configurable Site", "link":"/repo"}
+    {"title":"INCSUB", "link":"https://incsub.com/"},
+    {"title":"SAVVYPLUS", "link":"/repo"},
+    {"title":"Neuli", "link":"https://www.crunchbase.com/organization/neuli"},
+    {"title":"CYMPLAR", "link":"https://www.crunchbase.com/organization/cymplar#/entity"},
+    {"title":"WPMU DEV", "lhttps://premium.wpmudev.org"},
+     {"title":"Get Clandestine", "link":"http://getclandestine.com/"},
+      {"title":"5x4", "link":"http://www.fivexfour.com/"}
   ]
 }
